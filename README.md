@@ -1,2 +1,2 @@
-# photographysite
+# photographySite
 numcamp portfolio project
